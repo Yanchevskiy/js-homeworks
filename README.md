@@ -1,7 +1,8 @@
 # Домашние задания на курсе «JavaScript: основы и современныe возможности языка»
 
 ## Блок 1. Синтаксис
-1.1 [Переменные, числа и строки](variables/)[Ссылка на решение https://repl.it/@IgrikWork/FreshNonstopKarakul]  
+[Ссылка на решения и паблик https://repl.it/@IgrikWork]  
+1.1 [Переменные, числа и строки](variables/)
 1.2 [Управляющие конструкции](control-structures/)  
 1.3 [Циклы и массивы](cycles/)  
 1.4 [Функции](functions/)  
